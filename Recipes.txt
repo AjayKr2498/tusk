@@ -7,4 +7,7 @@ Pasta
 Chapathi
 chicken fry
 
+Pizza
+Burger
+
 Thank you
