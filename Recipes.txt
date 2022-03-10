@@ -2,9 +2,12 @@
 
 Welcome to the kitchen
 
+veg
 Panner Butter masala
 Pasta
-Chapathi
+
+Non-veg
+egg-Chapathi
 chicken fry
 
 Thank you
